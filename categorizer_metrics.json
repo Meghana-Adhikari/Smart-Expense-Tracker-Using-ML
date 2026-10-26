@@ -1,0 +1,5 @@
+{
+  "holdout_accuracy": 0.999,
+  "holdout_macro_f1": 0.9979,
+  "unseen_merchant_accuracy": 0.6946
+}
